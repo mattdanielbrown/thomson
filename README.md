@@ -1,6 +1,6 @@
 # Thomson Free Bootstrap Portfolio Template
 
-![thomson](https://demo.themefisher.com/thumbnails/thomson.png)
+![thomson](https://assets.teamosis.com/thumbs/thomson.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/thomson/)
 
