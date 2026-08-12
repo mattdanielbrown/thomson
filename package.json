@@ -11,7 +11,7 @@
     "deploy": "gulp deploy"
   },
   "dependencies": {
-    "browser-sync": "^2.27.10",
+    "browser-sync": "^3.0.4",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-file-include": "^2.3.0",
