@@ -19,7 +19,7 @@
     "gulp-header-comment": "^0.10.0",
     "gulp-jshint": "^2.1.0",
     "gulp-rimraf": "^1.0.0",
-    "gulp-sass": "^5.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-util": "^3.0.8",
     "jshint": "^2.13.6",
